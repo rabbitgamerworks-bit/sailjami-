@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.1
+X-Nemo-Application-Type=silica-qt5
+Icon=sailjami
+Exec=sailjami
+Name=Jami
+Name[pl]=Jami
+Comment=Private, distributed messaging
+Comment[pl]=Prywatny, rozproszony komunikator
+
+[X-Sailjail]
+OrganizationName=org.sailjami
+ApplicationName=sailjami
+Permissions=Internet;Audio
